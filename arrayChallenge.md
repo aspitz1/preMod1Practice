@@ -2,6 +2,7 @@
 **By Anna Spitz**
 <br>
 *This is a challenge I made for myself and thought it was fun so I wanted to share. It contains a couple methods that where not covered in Mod0. Here are the links to the docs for [.charCodeAt()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/charCodeAt) and [.toUpperCase()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/toUpperCase) methods.*
+<br><br>
 Make an array consisting of 26 items. The data type can be anything. A number or string may be best for this exercise.
 Make a variable with a value that has a data type of string and contains only letters. A single word may be best for this exercise.
 Use the charCodeAt() method to console.log() the Unicode for a position of a letter in the string used for your variable.
