@@ -1,13 +1,15 @@
-Coding Challenge #1 
+# Coding Challenge #1 
 
-Key Concepts: _variables, basic operators & operator precedence, loging to console, significant figures (challenge Q)_
+## Key Concepts: 
+
+  - _variables, basic operators & operator precedence, loging to console, significant figures (challenge Q)_
 
 Mark and John are trying to compare their BMI (Body Mass Index), which is
 calculated using the formula:
 BMI = mass / height ** 2 = mass / (height * height) (mass in kg
 and height in meter).
 
-Your tasks:
+## Your tasks:
 
 1. Store Mark's and John's mass and height in variables
 2. Calculate both their BMIs using the formula (you can even implement both
