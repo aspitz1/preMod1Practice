@@ -1,4 +1,6 @@
 # Coding Challenge #1 
+Written by by Jonas Schmedtmann for a Udemy course, Shared by Shane Way.
+CW: This challenge has mention of BMI and body weights. 
 
 ## Key Concepts: 
 
