@@ -2,6 +2,11 @@
 
 ![Image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9k7O6ZcJHlJKoWCLAvBJG2d_EIGFGEde96Q&usqp=CAU)
 
+- Fork this madness and get it into your local repo *🥳*
+- Commit all your code and check your's against others' solutions!
+- Pull request your challange problems in a README.md file with a TITLE to get them posted to the base branch!
+
+## Overview
 
 Now that we have made it through Mod 0 and have some time between now and the beginning of Mod 1, we have decided to create
 a page that allows upcoming Mod 1 students the oppportunity to work on some __challenge problems__ created by 
