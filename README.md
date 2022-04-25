@@ -1,4 +1,4 @@
-# ⚡️ Pre Mod 1: Practice Coding Challenges ⚡️
+# :sparkles: Pre Mod 1: Practice Coding Challenges :sparkles:
 
 
 Now that we have made it through Mod 0 and have some time between now and the beginning of Mod 1, we have created
